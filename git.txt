@@ -1,0 +1,15 @@
+mkdir repo-name
+cd repo-name
+git init
+git remote add origin https://github.com/durkes/repo-name.git
+git remote -v
+
+git pull origin master
+
+git status
+
+git add .
+git status
+
+git commit -m "Commit note"
+git push origin master
