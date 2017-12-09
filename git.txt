@@ -1,4 +1,3 @@
-mkdir repo-name
 cd repo-name
 git init
 git remote add origin https://github.com/durkes/repo-name.git
