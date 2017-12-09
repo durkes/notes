@@ -1,6 +1,8 @@
 # first time: create env
 conda create -n flask-env
 
+# no conda? install miniconda
+
 # activate this environment
 source activate flask-env
 
