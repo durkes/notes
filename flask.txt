@@ -1,0 +1,8 @@
+# first time: create env
+conda create -n flask-env
+
+# activate this environment
+source activate flask-env
+
+# deactivate this environment
+source deactivate flask-env
