@@ -8,3 +8,21 @@ source activate flask-env
 
 # deactivate this environment
 source deactivate flask-env
+
+# sqlalchemy
+conda install -c conda-forge flask-sqlalchemy
+
+# recommended
+source deactivate flask-env
+# close bash and re-open
+cd ...
+source activate flask-env
+
+conda install pymysql
+
+# recommended
+source deactivate flask-env
+# close bash and re-open
+cd ...
+source activate flask-env
+
