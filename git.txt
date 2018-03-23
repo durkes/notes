@@ -1,3 +1,7 @@
+# Clone existing
+git clone https://github.com/durkes/repo-name.git
+
+# New
 cd repo-name
 git init
 git remote add origin https://github.com/durkes/repo-name.git
